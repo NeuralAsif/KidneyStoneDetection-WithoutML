@@ -110,8 +110,6 @@ The system displays:
 * Kidney ROI
 * Final Detection Result
 
----
-
 ## Processing Workflow
 
 Input CT Scan
@@ -152,8 +150,6 @@ Kidney Stone Detection
 
 Result Visualization
 
----
-
 ## Technologies Used
 
 * Python 3.x
@@ -176,7 +172,6 @@ Install dependencies:
 pip install opencv-python numpy matplotlib
 ```
 
----
 
 ## Usage
 

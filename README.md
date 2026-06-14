@@ -168,7 +168,7 @@ Result Visualization
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Kidney-Stone-Detection-WithoutML.git
+git clone https://github.com/NeuralAsif/KidneyStoneDetection-WithoutML.git
 cd Kidney-Stone-Detection-WithoutML
 ```
 
@@ -202,8 +202,6 @@ The program will:
 4. Display intermediate processing stages
 5. Output the total number of detected stones
 
----
-
 ## Example Output
 
 ### Detection Information
@@ -223,8 +221,6 @@ Circularity : 0.889
 FINAL RESULT: 2 Kidney Stone(s) Detected
 ```
 
----
-
 ## Advantages
 
 * No training dataset required
@@ -234,7 +230,6 @@ FINAL RESULT: 2 Kidney Stone(s) Detected
 * Explainable detection process
 * Suitable for academic projects and image processing courses
 
----
 
 ## Limitations
 
@@ -243,8 +238,6 @@ FINAL RESULT: 2 Kidney Stone(s) Detected
 * Performance depends on CT image quality
 * Not intended for clinical diagnosis
 * Less robust than modern deep learning approaches
-
----
 
 ## Future Improvements
 
@@ -256,7 +249,6 @@ FINAL RESULT: 2 Kidney Stone(s) Detected
 * Integration with machine learning models
 * Clinical dataset evaluation
 
----
 
 ## Disclaimer
 

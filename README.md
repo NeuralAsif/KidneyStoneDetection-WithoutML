@@ -161,8 +161,6 @@ Result Visualization
 * NumPy
 * Matplotlib
 
----
-
 ## Installation
 
 Clone the repository:
@@ -191,7 +189,7 @@ image_path = r"your_ct_scan_image.jpg"
 Run:
 
 ```bash
-python main.py
+stone_detection.ipynb
 ```
 
 The program will:

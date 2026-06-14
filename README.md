@@ -1,9 +1,7 @@
 # Kidney Stone Detection-WithoutML
 
 A lightweight and interpretable kidney stone detection system developed using classical image processing techniques on CT scan images, without using Machine Learning or Deep Learning models.
-
----
-
+<img width="1341" height="747" alt="Image" src="https://github.com/user-attachments/assets/2e934c84-8c37-4734-b89c-0fe86bf8ff75" />
 ## Overview
 
 Kidney stone disease is one of the most common urinary tract disorders affecting millions of people worldwide. Early detection is crucial to prevent severe pain, urinary obstruction, infections, and kidney damage.
@@ -11,8 +9,6 @@ Kidney stone disease is one of the most common urinary tract disorders affecting
 This project presents an automated kidney stone detection pipeline using traditional image processing methods. The system analyzes CT scan images, identifies potential kidney stone regions, and highlights detected stones without requiring any training data, neural networks, or large computational resources.
 
 The project is designed for educational, research, and medical image processing purposes.
-
----
 
 ## Features
 
@@ -27,9 +23,7 @@ The project is designed for educational, research, and medical image processing 
 * Kidney Region of Interest (ROI) extraction
 * Stone localization and counting
 * Visualization of every processing stage
-
----
-
+  
 ## Methodology
 
 The proposed system follows the pipeline below:
